@@ -1,6 +1,3 @@
-# Rubber-Duck-Town
-My project portfolio
-
 ### 360
 
 Project Description
